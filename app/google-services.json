@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876754562316",
+    "project_id": "topicgenerator-f67c9",
+    "storage_bucket": "topicgenerator-f67c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876754562316:android:288f944a7854dee27b2d29",
+        "android_client_info": {
+          "package_name": "com.example.topicgenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876754562316-ilv0umpjrc08ac5oc4lph3m7cv8aumks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6BV9W9LxqJrZCPvwiOQqGMKn1M5yDTUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876754562316-ilv0umpjrc08ac5oc4lph3m7cv8aumks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
